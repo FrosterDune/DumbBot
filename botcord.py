@@ -2,19 +2,20 @@ import nextcord
 import copypasty
 import Derp
 import private
+import datetime
 from nextcord.ext import commands, tasks
 from nextcord.ext.commands import command, has_permissions, bot_has_permissions, Cog, cog
 from better_profanity import profanity
 from math import sqrt
-import datetime
+
 
 bot = commands.Bot()
 descriptions = copypasty.Description()
 copypasta = copypasty.Copypasta()
 derpy = Derp.Commands()
 random_derp = Derp.Random()
-channelid = private.ChannelIDrequest()
-token = private.token()
+channelid = private.ChannelIDrequest.bot_image_posting()
+token = private.token.token()
 
 @bot.event
 async def on_ready():
@@ -23,23 +24,23 @@ async def on_ready():
 #Loop events
 @tasks.loop(seconds=15)
 async def send_random_artfromartist():
-    message_channel = bot.get_channel(channelid.bot_image_posting())
+    message_channel = bot.get_channel(channelid)
     await message_channel.send(random_derp.randomimageartistslist())
 
 @send_random_artfromartist.before_loop
 async def before():
     await bot.wait_until_ready()
-    print("waiting finished loop1")
+    print("loop1 has started")
 
 @tasks.loop(seconds=15)
 async def send_random_art():
-    message_channel = bot.get_channel(channelid.bot_image_posting())
+    message_channel = bot.get_channel(channelid)
     await message_channel.send(random_derp.randomimage(upvotes=350))
 
 @send_random_art.before_loop
 async def before():
     await bot.wait_until_ready()
-    print("finished waiting loop2")
+    print("loop2 has started")
 
 #Basic custom commands
 @bot.slash_command(description="You know what is this (nextcord)")
@@ -116,12 +117,14 @@ async def startloop2(ctx):
 @bot.slash_command(description="stopping loop1", default_member_permissions=8)
 async def stoploop1(ctx):
     send_random_artfromartist.stop()
+    print("loop1 stopped")
     await ctx.send("successful", ephemeral=True)
 
 @bot.slash_command(description="stopping loop2", default_member_permissions=8)
 async def stoploop2(ctx):
     send_random_art.stop()
+    print("loop2 stopped")
     await ctx.send("successful", ephemeral=True)
 
 
-bot.run(token.token())
+bot.run(token)

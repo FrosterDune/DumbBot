@@ -10,4 +10,4 @@ class Description:
     def zyzzdes(self):
         return str("We're All Gonna Make It Brah (you need to wait because of upload 7mb file, just wait 5-10 seconds)")
     def randomderpartists(self):
-        return str("post a random image from derpi from randomlist of artists Light, Dyo, Coco, Quint")
+        return str("post a random image from derpi from randomlist of artists Light, Dyo, Coco, Quint, Ginny")

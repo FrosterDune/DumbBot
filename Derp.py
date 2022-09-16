@@ -31,11 +31,12 @@ class Commands:
 
 class Random:
     def randomimage(self, upvotes: int):
-        for image in Search().query(f"upvotes.gte:{upvotes}").sort_by(sort.RANDOM).limit(1):
+        for image in Search().query(f"safe, upvotes.gte:{upvotes}").sort_by(sort.RANDOM).limit(1):
             return image.url
 
     def randomimageartistslist(self):
-        for image in Search().query(f"artist:{random.choice(ARTISTS)}, upvotes.lte:600, upvotes.gte:10").sort_by(sort.RANDOM).limit(1):
+        for image in Search().query(f"artist:{random.choice(ARTISTS)}, upvotes.lte:600, upvotes.gte:10").sort_by(
+                                                                                                sort.RANDOM).limit(1):
             return image.url
 
 #Fixed by Tobyyy
