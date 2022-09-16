@@ -30,6 +30,7 @@ class Commands:
         return template(ARTISTS[4], upvotes=upvotes)
 
 class Random:
+
     def randomimage(self, upvotes: int):
         for image in Search().query(f"safe, upvotes.gte:{upvotes}").sort_by(sort.RANDOM).limit(1):
             return image.url
