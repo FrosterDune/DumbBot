@@ -8,7 +8,6 @@ from nextcord.ext.commands import command, has_permissions, bot_has_permissions,
 from better_profanity import profanity
 from math import sqrt
 
-
 bot = commands.Bot()
 descriptions = copypasty.Description()
 copypasta = copypasty.Copypasta()
@@ -21,28 +20,11 @@ token = private.token.token()
 async def on_ready():
     print("I'm ready")
 
-#Loop events
-@tasks.loop(seconds=15)
-async def send_random_artfromartist():
-    message_channel = bot.get_channel(channelid)
-    await message_channel.send(random_derp.randomimageartistslist())
-
-@send_random_artfromartist.before_loop
-async def before():
-    await bot.wait_until_ready()
-    print("loop1 has started")
-
-@tasks.loop(seconds=15)
-async def send_random_art():
-    message_channel = bot.get_channel(channelid)
-    await message_channel.send(random_derp.randomimage(upvotes=350))
-
-@send_random_art.before_loop
-async def before():
-    await bot.wait_until_ready()
-    print("loop2 has started")
-
 #Basic custom commands
+@bot.slash_command(description="Shows bot latency")
+async def ping(ctx):
+    await ctx.send(f"Bot Speed - {round(bot.latency * 1000)}ms", ephemeral=True)
+
 @bot.slash_command(description="You know what is this (nextcord)")
 async def chalice(ctx):
     embed = nextcord.Embed(title="I, EvaX", description=copypasta.chalice())
@@ -125,6 +107,27 @@ async def stoploop2(ctx):
     send_random_art.stop()
     print("loop2 stopped")
     await ctx.send("successful", ephemeral=True)
+
+#Loop events
+@tasks.loop(seconds=10)
+async def send_random_artfromartist():
+    message_channel = bot.get_channel(channelid)
+    await message_channel.send(random_derp.randomimageartistslist())
+
+@send_random_artfromartist.before_loop
+async def before():
+    await bot.wait_until_ready()
+    print("loop1 has started")
+
+@tasks.loop(seconds=10)
+async def send_random_art():
+    message_channel = bot.get_channel(channelid)
+    await message_channel.send(random_derp.randomimage(upvotes=350))
+
+@send_random_art.before_loop
+async def before():
+    await bot.wait_until_ready()
+    print("loop2 has started")
 
 
 bot.run(token)
