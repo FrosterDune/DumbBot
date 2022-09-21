@@ -39,7 +39,7 @@ async def zyzz(ctx):
     await ctx.channel.send("**We're All Gonna Make It Brah 💪**", file=nextcord.File('zyzz.mp4'))
 
 @bot.slash_command(description="najde vlak který jezdí na trati 270 (pouze Os/Sp/R)", default_member_permissions=8)
-async def train(ctx, input):
+async def train(ctx, input: int):
     embed = nextcord.Embed(description=trainlist.vypis(input=input))
     await ctx.send(embed=embed, ephemeral=True)
 

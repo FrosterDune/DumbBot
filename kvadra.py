@@ -1,6 +1,7 @@
 from math import sqrt
 
 def vypocet(a:float, b:float, c:float):
+
     try:
         D = b ** 2 - 4 * a * c
         x1 = (-b + sqrt(D)) / (2 * a)

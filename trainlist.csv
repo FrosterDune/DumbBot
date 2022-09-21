@@ -1,163 +1,163 @@
-Typ;cislo;nazev;jizdni rad
-Os;3811;;Olomouc hl.n. 4.19 Pøerov 4.40
-Os;3812;;Nezamyslice 5.23 Pøerov 6.00-6.03 Olomouc hl.n. 6.25
-Os;3813;;Olomouc hl.n. 5.33 Pøerov 5.54-5.57 Nezamyslice 6.32
-Os;3815;;Olomouc hl.n. 6.33 Pøerov 6.54-6.57 Nezamyslice 7.32
-Os;3816;;Nezamyslice 7.06 Pøerov 7.36-7.38 Olomouc hl.n. 8.04
-Os;3817;;Olomouc hl.n. 8.33 Pøerov 8.54-8.57 Nezamyslice 9.29
-Os;3818;;Nezamyslice 8.28 Pøerov 9.00-9.03 Olomouc hl.n. 9.25
-Os;3819;;Olomouc hl.n. 10.33 Pøerov 10.54-10.57 Nezamyslice 11.29
-Os;3820;;Nezamyslice 10.23 Pøerov 11.00-11.03 Olomouc hl.n. 11.25
-Os;3821;;Olomouc hl.n. 12.33 Pøerov 12.54-12.57 Nezamyslice 13.32
-Os;3822;;Nezamyslice 12.23 Pøerov 13.00-13.03 Olomouc hl.n. 13.25
-Os;3823;;Olomouc hl.n. 13.33 Pøerov 13.54-13.57 Nezamyslice 14.33
-Os;3825;;Olomouc hl.n. 14.33 Pøerov 14.54-14.57 Nezamyslice 15.33
-Os;3826;;Nezamyslice 14.23 Pøerov 15.00-15.03 Olomouc hl.n. 15.25
-Os;3827;;Olomouc hl.n. 15.33 Pøerov 15.54-15.57 Nezamyslice 16.33
-Os;3828;;Nezamyslice 15.23 Pøerov 16.00-16.03 Olomouc hl.n. 16.25
-Os;3831;;Olomouc hl.n. 16.33 Pøerov 16.54-16.57 Nezamyslice 17.33
-Os;3832;;Nezamyslice 16.23 Pøerov 17.00-17.03 Olomouc hl.n. 17.25
-Os;3833;;Olomouc hl.n. 17.33 Pøerov 17.54-17.57 Nezamyslice 18.33
-Os;3834;;Nezamyslice 17.23 Pøerov 18.00-18.03 Olomouc hl.n. 18.25
-Os;3835;;Olomouc hl.n. 18.33 Pøerov 18.54-18.57 Nezamyslice 19.33
-Os;3836;;Nezamyslice 18.23 Pøerov 19.00-19.03 Olomouc hl.n. 19.25
-Os;3838;;Nezamyslice 20.28 Pøerov 20.56-21.03 Olomouc hl.n. 21.25
-Os;3840;;Pøerov 4.30 Olomouc hl.n. 4.51
-Os;3842;;Pøerov 5.03 Olomouc hl.n. 5.25
-Os;3843;;Olomouc hl.n. 7.33 Pøerov 7.54
-Os;3844;;Pøerov 8.03 Olomouc hl.n. 8.25
-Os;3845;;Olomouc hl.n. 9.33 Pøerov 9.54
-Os;3846;;Pøerov 10.03 Olomouc hl.n. 10.25
-Os;3847;;Olomouc hl.n. 11.33 Pøerov 11.54
-Os;3848;;Pøerov 12.03 Olomouc hl.n. 12.25
-Os;3860;;Nezamyslice 6.28 Pøerov 7.00
-Os;3861;;Olomouc hl.n. 19.33 Pøerov 19.54
-Os;3862;;Pøerov 14.03 Olomouc hl.n. 14.25
-Os;3863;;Olomouc hl.n. 20.33 Pøerov 20.54
-Os;3865;;Olomouc hl.n. 21.33 Pøerov 21.54
-Os;3867;;Olomouc hl.n. 22.37 Pøerov 22.58
-Os;3868;;Pøerov 20.03 Olomouc hl.n. 20.25
-Os;3869;;Olomouc hl.n. 23.08 Pøerov 23.29
-Os;3870;;Pøerov 22.33 Olomouc hl.n. 22.54
-Os;12700;; Lanškroun 4.30 Rudoltice v Èechách 4.35-4.36, Tøebovice v Èechách 4.42-4.42, Èeská Tøebová 4.48
-Os;12701;;Èeská Tøebová 4.09 Tøebovice v Èechách 4.14-4.14, Rudoltice v Èechách 4.19-4.20, Lanškroun 4.26
-Os;12702;;Lanškroun 5.11 Rudoltice v Èechách 5.16-5.18, Tøebovice v Èechách 5.24-5.24, Èeská Tøebová 5.30
-Os;12703;;Èeská Tøebová 4.48 Tøebovice v Èechách 4.53-4.53, Rudoltice v Èechách 4.59-5.00, Lanškroun 5.06
-Os;12704;;Lanškroun 5.30 Rudoltice v Èechách 5.35-5.36, Tøebovice v Èechách 5.42-5.46, Èeská Tøebová 5.52
-Os;12705;;Èeská Tøebová 5.07 Tøebovice v Èechách 5.12-5.12, Rudoltice v Èechách 5.18-5.19, Lanškroun 5.25
-Os;12706;;Lanškroun 6.14 Rudoltice v Èechách 6.19-6.20, Èeská Tøebová 6.32
-Os;12707;;Tøebovice v Èechách 5.54 Rudoltice v Èechách 6.00-6.01, Lanškroun 6.07
-Os;12708;;Lanškroun 6.37 Rudoltice v Èechách 6.42-6.43, Tøebovice v Èechách 6.49-6.49, Èeská Tøebová 6.55
-Os;12709;;Èeská Tøebová 6.09 Tøebovice v Èechách 6.14-6.14, Rudoltice v Èechách 6.20-6.21, Lanškroun 6.27
-Os;12710;;Lanškroun 7.12 Rudoltice v Èechách 7.18
-Os;12711;;Èeská Tøebová 6.49 Tøebovice v Èechách 6.54-6.54, Rudoltice v Èechách 7.00-7.01, Lanškroun 7.07
-Os;12712;;Lanškroun 7.28 Rudoltice v Èechách 7.34
-Os;12713;;Èeská Tøebová 7.04 Tøebovice v Èechách 7.09-7.09, Rudoltice v Èechách 7.15-7.16, Lanškroun 7.22
-Os;12714;;Lanškroun 7.30 Rudoltice v Èechách 7.35-7.36, Tøebovice v Èechách 7.42-7.42, Èeská Tøebová 7.48
-Os;12715;;Èeská Tøebová 7.07 Tøebovice v Èechách 7.12-7.12, Rudoltice v Èechách 7.18-7.19, Lanškroun 7.25
-Os;12716;;Lanškroun 8.30 Rudoltice v Èechách 8.35-8.36, Tøebovice v Èechách 8.42-8.46, Èeská Tøebová 8.52
-Os;12717;;Rudoltice v Èechách 8.18 Lanškroun 8.24
-Os;12718;;Lanškroun 9.29 Rudoltice v Èechách 9.35
-Os;12719;;Èeská Tøebová 9.04 Tøebovice v Èechách 9.09-9.09, Rudoltice v Èechách 9.15-9.16, Lanškroun 9.22
-Os;12720;;Lanškroun 10.30 Rudoltice v Èechách 10.35-10.36, Tøebovice v Èechách 10.42-10.46, Èeská Tøebová 10.52
-Os;12721;;Rudoltice v Èechách 10.18 Lanškroun 10.24
-Os;12722;;Lanškroun 11.29 Rudoltice v Èechách 11.35
-Os;12723;;Èeská Tøebová 11.04 Tøebovice v Èechách 11.09-11.09, Rudoltice v Èechách 11.15-11.16, Lanškroun 11.22
-Os;12724;;Lanškroun 12.30 Rudoltice v Èechách 12.35-12.36, Tøebovice v Èechách 12.42-12.42, Èeská Tøebová 12.49
-Os;12725;;Rudoltice v Èechách 12.18 Lanškroun 12.24
-Os;12726;;Lanškroun 13.29 Rudoltice v Èechách 13.35
-Os;12727;;Èeská Tøebová 13.04 Tøebovice v Èechách 13.09-13.09, Rudoltice v Èechách 13.15-13.16, Lanškroun 13.22
-Os;12728;;Lanškroun 14.00 Rudoltice v Èechách 14.05-14.06, Tøebovice v Èechách 14.12-14.12, Èeská Tøebová 14.18
-Os;12729;;Èeská Tøebová 13.34 Tøebovice v Èechách 13.39-13.39, Rudoltice v Èechách 13.45-13.46, Lanškroun 13.52
-Os;12730;;Lanškroun 14.30 Rudoltice v Èechách 14.35-14.36, Tøebovice v Èechách 14.42-14.46, Èeská Tøebová 14.52
-Os;12731;;Èeská Tøebová 14.04 Tøebovice v Èechách 14.09-14.09, Rudoltice v Èechách 14.15-14.18, Lanškroun 14.24
-Os;12732;;Lanškroun 15.00 Rudoltice v Èechách 15.05-15.06, Tøebovice v Èechách 15.12-15.12, Èeská Tøebová 15.18
-Os;12733;;Rudoltice v Èechách 14.44 Lanškroun 14.50
-Os;12734;;Lanškroun 15.29 Rudoltice v Èechách 15.35
-Os;12735;;Èeská Tøebová 15.04 Tøebovice v Èechách 15.09-15.09, Rudoltice v Èechách 15.15-15.16, Lanškroun 15.22
-Os;12736;;Lanškroun 16.00 Rudoltice v Èechách 16.05-16.06, Tøebovice v Èechách 16.12-16.14, Èeská Tøebová 16.20
-Os;12737;;Èeská Tøebová 15.34 Tøebovice v Èechách 15.39-15.39, Rudoltice v Èechách 15.45-15.46, Lanškroun 15.52
-Os;12738;;Lanškroun 16.30 Rudoltice v Èechách 16.35-16.36, Tøebovice v Èechách 16.42-16.46, Èeská Tøebová 16.52
-Os;12739;;Rudoltice v Èechách 16.18 Lanškroun 16.24
-Os;12740;;Lanškroun 17.29 Rudoltice v Èechách 17.35
-Os;12741;;Èeská Tøebová 17.04 Tøebovice v Èechách 17.09-17.09, Rudoltice v Èechách 17.15-17.16, Lanškroun 17.22
-Os;12742;;Lanškroun 18.30 Rudoltice v Èechách 18.35-18.36, Tøebovice v Èechách 18.42-18.46, Èeská Tøebová 18.52
-Os;12743;;Rudoltice v Èechách 18.18 Lanškroun 18.24
-Os;12744;;Lanškroun 19.29 Rudoltice v Èechách 19.35
-Os;12745;;Èeská Tøebová 19.04 Tøebovice v Èechách 19.09-19.09, Rudoltice v Èechách 19.15-19.16, Lanškroun 19.22
-Os;12746;;Lanškroun 20.07 Rudoltice v Èechách 20.13
-Os;12747;;Rudoltice v Èechách 19.40 Lanškroun 19.46
-Os;12748;;Lanškroun 20.34 Rudoltice v Èechách 20.39-20.40, Tøebovice v Èechách 20.46-20.46, Èeská Tøebová 20.52
-Os;12749;;Rudoltice v Èechách 20.18 Lanškroun 20.24
-Os;12750;;Lanškroun 21.34 Rudoltice v Èechách 21.39-21.40, Tøebovice v Èechách 21.46-21.46, Èeská Tøebová 21.52
-Os;12751;;Èeská Tøebová 21.04 Tøebovice v Èechách 21.09-21.09, Rudoltice v Èechách 21.15-21.16, Lanškroun 21.22
-Os;12752;;Lanškroun 22.41 Rudoltice v Èechách 22.46-22.47, Tøebovice v Èechách 22.53-22.53, Èeská Tøebová 22.59
-Os;12753;;Èeská Tøebová 22.17 Tøebovice v Èechách 22.23-22.25, Rudoltice v Èechách 22.31-22.32, Lanškroun 22.38
-Os;12754;;Lanškroun 23.18 Rudoltice v Èechách 23.23-23.24, Tøebovice v Èechách 23.30-23.30, Èeská Tøebová 23.36
-Os;12755;;Èeská Tøebová 22.54 Tøebovice v Èechách 23.00-23.02, Rudoltice v Èechách 23.08-23.09, Lanškroun 23.15
-Sp;1400;;Jeseník 5.01, Hanušovice 5.55-5.56, Šumperk 6.24
-Sp;1401;;Zábøeh na Moravì 7.31, Hanušovice 7.59-8.02, Jeseník 8.58 
-Sp;1402;;Jeseník 17.01, Hanušovice 17.58-18.00, Zábøeh na Moravì 18.25
-Sp;1403;;Zábøeh na Moravì 9.31, Hanušovice 9.59-10.02, Jeseník 10.58
-Sp;1404;;Jeseník 15.01, Hanušovice 15.58-16.00, Zábøeh na Moravì 16.25
-Sp;1405;;Zábøeh na Moravì 11.31, Hanušovice 11.59-12.02, Jeseník 12.58
-Sp;1406;;Jeseník 13.01, Hanušovice 13.58-14.00, Zábøeh na Moravì 14.25
-Sp;1407;;Zábøeh na Moravì 13.31, Hanušovice 13.59-14.02, Jeseník 14.58
-Sp;1408;;Jeseník 11.01, Hanušovice 11.58-12.00, Zábøeh na Moravì 12.25
-Sp;1409;;Zábøeh na Moravì 15.31, Hanušovice 15.59-16.02, Jeseník 16.58
-Sp;1410;;Jeseník 9.01, Hanušovice 9.58-10.00, Zábøeh na Moravì 10.25
-Sp;1411;;Zábøeh na Moravì 17.31, Hanušovice 17.59-18.02, Jeseník 18.58
-Sp;1412;;Jeseník 7.00, Hanušovice 7.58-8.00, Zábøeh na Moravì 8.25 
-Sp;1413;;Olomouc hl.n. 7.47, Zábøeh na Moravì 8.27-8.32, Hanušovice 8.59-9.02, Jeseník 9.59
-Sp;1414;;Jeseník 16.04, Hanušovice 16.59-17.00, Zábøeh na Moravì 17.25-17.30, Olomouc hl.n. 18.06
-Sp;1416;;Jeseník 18.04, Hanušovice 18.59-19.00, Zábøeh na Moravì 19.25-19.30, Olomouc hl.n. 20.06 
-Sp;1418;;Jeseník 19.04, Hanušovice 19.57-20.00, Bludov 20.19-20.23, Zábøeh na Moravì 20.32
-Sp;1419;;Šumperk 19.29, Hanušovice 19.59-20.02, Jeseník 21.00
-Sp;1420;;Jeseník 19.04, Hanušovice 19.57-20.00, Zábøeh na Moravì 20.25
-Sp;1424;;Vsetín 5.02, Valašské Meziøíèí 5.20-5.30, Hranice na Moravì 5.59-6.00, Olomouc hl.n. 6.33
-Sp;1425;;Pøerov 7.39, Hranice na Moravì 7.59-8.00, Valašské Meziøíèí 8.27-8.30, Vsetín 8.49 
-Sp;1426;;Vsetín 6.02, Valašské Meziøíèí 6.20-6.22, Hranice na Moravì 6.51-6.52, Olomouc hl.n. 7.28
-Sp;1427;;Olomouc hl.n. 14.20, Hranice na Moravì 14.56-15.00, Valašské Meziøíèí 15.29-15.30, Vsetín 15.49
-Sp;1428;;Vsetín 14.02, Valašské Meziøíèí 14.20-14.23, Hranice na Moravì 14.51-14.52, Olomouc hl.n. 15.28
-Sp;1429;;Olomouc hl.n. 15.18, Hranice na Moravì 15.55-15.56, Valašské Meziøíèí 16.24-16.26, Vsetín 16.45
-Sp;1430;;Prostìjov hl.n. 7.35, Olomouc hl.n. 7.52
-Sp;1431;;Olomouc hl.n. 14.06, Prostìjov hl.n. 14.22
-Sp;1432;;Prostìjov hl.n. 15.35, Olomouc hl.n. 15.52
-Sp;1433;;Olomouc hl.n. 16.06, Prostìjov hl.n. 16.22
-Sp;1435;;Olomouc hl.n. 20.56, Zábøeh na Moravì 21.24-21.26, Šumperk 21.41
-Sp;1436;;Šumperk 4.49, Zábøeh na Moravì 5.06-5.15, Olomouc hl.n. 5.50
-Sp;1437;;Olomouc hl.n. 4.50, Zábøeh na Moravì 5.16-5.17, Šumperk 5.40
-R;640;Hukvaldy;Bohumín 19.58, Ostrava hl.n. 20.05-20.07, Ostrava-Svinov 20.13-20.15, Olomouc hl.n. 21.12-21.14, Pardubice hl.n. 22.44-22.46, Praha hl.n. 23.54
-R;641;Hukvaldy;Praha hl.n. 4.02, Pardubice hl.n. 5.11-5.13, Èeská Tøebová 5.59-6.00, Olomouc hl.n. 6.43-6.45, Ostrava-Svinov 7.46-7.48, Ostrava hl.n. 7.54-7.56, Bohumín 8.02
-R;800;Moravan;Olomouc hl.n. 21.08, Hulín 21.33-21.34, Bøeclav 22.30
-R;801;Moravan;Bøeclav 5.26, Hulín 6.20-6.22, Olomouc hl.n. 6.49 
-R;802;Moravan;Olomouc hl.n. 19.08, Hulín 19.33-19.34, Bøeclav 20.35-20.44, Brno hl.n. 21.22
-R;803;Moravan;Brno hl.n. 6.36, Bøeclav 7.15-7.21, Hulín 8.20-8.22, Olomouc hl.n. 8.49
-R;804;Moravan;Olomouc hl.n. 17.08, Hulín 17.33-17.34, Bøeclav 18.35-18.44, Brno hl.n. 19.22
-R;805;Moravan;Brno hl.n. 8.36, Bøeclav 9.15-9.21, Hulín 10.20-10.22, Olomouc hl.n. 10.49
-R;806;Moravan;Olomouc hl.n. 15.08, Hulín 15.33-15.34, Bøeclav 16.35-16.44, Brno hl.n. 17.22
-R;807;Moravan;Brno hl.n. 10.36, Bøeclav 11.15-11.21, Hulín 12.20-12.22, Olomouc hl.n. 12.49
-R;808;Moravan;Olomouc hl.n. 13.08, Hulín 13.33-13.34, Bøeclav 14.35-14.44, Brno hl.n. 15.22
-R;809;Moravan;Brno hl.n. 12.36, Bøeclav 13.15-13.21, Hulín 14.20-14.22, Olomouc hl.n. 14.49
-R;810;Moravan;Olomouc hl.n. 11.08, Hulín 11.33-11.34, Bøeclav 12.35-12.44, Brno hl.n. 13.22
-R;811;Moravan;Brno hl.n. 14.36, Bøeclav 15.15-15.21, Hulín 16.20-16.22, Olomouc hl.n. 16.49
-R;812;Moravan;Olomouc hl.n. 9.08, Hulín 9.33-9.34, Bøeclav 10.35-10.44, Brno hl.n. 11.22
-R;813;Moravan;Brno hl.n. 16.36, Bøeclav 17.15-17.21, Hulín 18.20-18.22, Olomouc hl.n. 18.49
-R;814;Moravan;Olomouc hl.n. 7.08, Hulín 7.33-7.34, Bøeclav 8.35-8.44, Brno hl.n. 9.22
-R;815;Moravan;Brno hl.n. 18.36, Bøeclav 19.15-19.21, Hulín 20.20-20.22, Olomouc hl.n. 20.49
-R;900;Bouzov;Šumperk 20.15, Zábøeh na Moravì 20.31-20.35, Olomouc hl.n. 21.01-21.06, Brno hl.n. 22.37
-R;901;Bouzov;Brno hl.n. 5.22, Olomouc hl.n. 6.52-6.56, Zábøeh na Moravì 7.22-7.26, Šumperk 7.41
-R;902;Bouzov;Šumperk 18.09, Zábøeh na Moravì 18.22-18.35, Olomouc hl.n. 19.01-19.06, Brno hl.n. 20.38
-R;903;Bouzov;Brno hl.n. 7.21, Olomouc hl.n. 8.52-8.56, Zábøeh na Moravì 9.22-9.26, Šumperk 9.41
-R;904;Bouzov;Šumperk 16.09, Zábøeh na Moravì 16.22-16.35, Olomouc hl.n. 17.01-17.06, Brno hl.n. 18.43 
-R;905;Bouzov;Brno hl.n. 9.18, Olomouc hl.n. 10.52-10.56, Zábøeh na Moravì 11.22-11.26, Šumperk 11.41
-R;906;Bouzov;Šumperk 14.09, Zábøeh na Moravì 14.22-14.35, Olomouc hl.n. 15.01-15.06, Brno hl.n. 16.43 
-R;907;Bouzov;Brno hl.n. 11.18, Olomouc hl.n. 12.52-12.56, Zábøeh na Moravì 13.22-13.26, Šumperk 13.41
-R;908;Bouzov;Šumperk 12.09, Zábøeh na Moravì 12.22-12.35, Olomouc hl.n. 13.01-13.06, Brno hl.n. 14.43
-R;909;Bouzov;Brno hl.n. 13.18, Olomouc hl.n. 14.52-14.56, Zábøeh na Moravì 15.22-15.26, Šumperk 15.41
-R;910;Bouzov;Šumperk 10.09, Zábøeh na Moravì 10.22-10.35, Olomouc hl.n. 11.01-11.06, Brno hl.n. 12.42
-R;911;Bouzov;Brno hl.n. 15.18, Olomouc hl.n. 16.52-16.56, Zábøeh na Moravì 17.22-17.26, Šumperk 17.41
-R;912;Bouzov;Šumperk 8.09, Zábøeh na Moravì 8.22-8.35, Olomouc hl.n. 9.01-9.06, Brno hl.n. 10.42
-R;913;Bouzov;Brno hl.n. 17.18, Olomouc hl.n. 18.52-18.56, Zábøeh na Moravì 19.24-19.26, Šumperk 19.43 
-R;914;Bouzov;Šumperk 6.11, Zábøeh na Moravì 6.30-6.31, Olomouc hl.n. 7.00-7.06, Brno hl.n. 8.42
-R;915;Bouzov;Brno hl.n. 19.18, Olomouc hl.n. 20.52-20.56, Zábøeh na Moravì 21.24-21.26, Šumperk 21.41
+Typ;cislo;nazev;delic;jizdni rad
+Os;3811;;|;Olomouc hl.n. 4.19 Pøerov 4.40
+Os;3812;;|;Nezamyslice 5.23 Pøerov 6.00-6.03 Olomouc hl.n. 6.25
+Os;3813;;|;Olomouc hl.n. 5.33 Pøerov 5.54-5.57 Nezamyslice 6.32
+Os;3815;;|;Olomouc hl.n. 6.33 Pøerov 6.54-6.57 Nezamyslice 7.32
+Os;3816;;|;Nezamyslice 7.06 Pøerov 7.36-7.38 Olomouc hl.n. 8.04
+Os;3817;;|;Olomouc hl.n. 8.33 Pøerov 8.54-8.57 Nezamyslice 9.29
+Os;3818;;|;Nezamyslice 8.28 Pøerov 9.00-9.03 Olomouc hl.n. 9.25
+Os;3819;;|;Olomouc hl.n. 10.33 Pøerov 10.54-10.57 Nezamyslice 11.29
+Os;3820;;|;Nezamyslice 10.23 Pøerov 11.00-11.03 Olomouc hl.n. 11.25
+Os;3821;;|;Olomouc hl.n. 12.33 Pøerov 12.54-12.57 Nezamyslice 13.32
+Os;3822;;|;Nezamyslice 12.23 Pøerov 13.00-13.03 Olomouc hl.n. 13.25
+Os;3823;;|;Olomouc hl.n. 13.33 Pøerov 13.54-13.57 Nezamyslice 14.33
+Os;3825;;|;Olomouc hl.n. 14.33 Pøerov 14.54-14.57 Nezamyslice 15.33
+Os;3826;;|;Nezamyslice 14.23 Pøerov 15.00-15.03 Olomouc hl.n. 15.25
+Os;3827;;|;Olomouc hl.n. 15.33 Pøerov 15.54-15.57 Nezamyslice 16.33
+Os;3828;;|;Nezamyslice 15.23 Pøerov 16.00-16.03 Olomouc hl.n. 16.25
+Os;3831;;|;Olomouc hl.n. 16.33 Pøerov 16.54-16.57 Nezamyslice 17.33
+Os;3832;;|;Nezamyslice 16.23 Pøerov 17.00-17.03 Olomouc hl.n. 17.25
+Os;3833;;|;Olomouc hl.n. 17.33 Pøerov 17.54-17.57 Nezamyslice 18.33
+Os;3834;;|;Nezamyslice 17.23 Pøerov 18.00-18.03 Olomouc hl.n. 18.25
+Os;3835;;|;Olomouc hl.n. 18.33 Pøerov 18.54-18.57 Nezamyslice 19.33
+Os;3836;;|;Nezamyslice 18.23 Pøerov 19.00-19.03 Olomouc hl.n. 19.25
+Os;3838;;|;Nezamyslice 20.28 Pøerov 20.56-21.03 Olomouc hl.n. 21.25
+Os;3840;;|;Pøerov 4.30 Olomouc hl.n. 4.51
+Os;3842;;|;Pøerov 5.03 Olomouc hl.n. 5.25
+Os;3843;;|;Olomouc hl.n. 7.33 Pøerov 7.54
+Os;3844;;|;Pøerov 8.03 Olomouc hl.n. 8.25
+Os;3845;;|;Olomouc hl.n. 9.33 Pøerov 9.54
+Os;3846;;|;Pøerov 10.03 Olomouc hl.n. 10.25
+Os;3847;;|;Olomouc hl.n. 11.33 Pøerov 11.54
+Os;3848;;|;Pøerov 12.03 Olomouc hl.n. 12.25
+Os;3860;;|;Nezamyslice 6.28 Pøerov 7.00
+Os;3861;;|;Olomouc hl.n. 19.33 Pøerov 19.54
+Os;3862;;|;Pøerov 14.03 Olomouc hl.n. 14.25
+Os;3863;;|;Olomouc hl.n. 20.33 Pøerov 20.54
+Os;3865;;|;Olomouc hl.n. 21.33 Pøerov 21.54
+Os;3867;;|;Olomouc hl.n. 22.37 Pøerov 22.58
+Os;3868;;|;Pøerov 20.03 Olomouc hl.n. 20.25
+Os;3869;;|;Olomouc hl.n. 23.08 Pøerov 23.29
+Os;3870;;|;Pøerov 22.33 Olomouc hl.n. 22.54
+Os;12700;;|; Lanškroun 4.30 Rudoltice v Èechách 4.35-4.36, Tøebovice v Èechách 4.42-4.42, Èeská Tøebová 4.48
+Os;12701;;|;Èeská Tøebová 4.09 Tøebovice v Èechách 4.14-4.14, Rudoltice v Èechách 4.19-4.20, Lanškroun 4.26
+Os;12702;;|;Lanškroun 5.11 Rudoltice v Èechách 5.16-5.18, Tøebovice v Èechách 5.24-5.24, Èeská Tøebová 5.30
+Os;12703;;|;Èeská Tøebová 4.48 Tøebovice v Èechách 4.53-4.53, Rudoltice v Èechách 4.59-5.00, Lanškroun 5.06
+Os;12704;;|;Lanškroun 5.30 Rudoltice v Èechách 5.35-5.36, Tøebovice v Èechách 5.42-5.46, Èeská Tøebová 5.52
+Os;12705;;|;Èeská Tøebová 5.07 Tøebovice v Èechách 5.12-5.12, Rudoltice v Èechách 5.18-5.19, Lanškroun 5.25
+Os;12706;;|;Lanškroun 6.14 Rudoltice v Èechách 6.19-6.20, Èeská Tøebová 6.32
+Os;12707;;|;Tøebovice v Èechách 5.54 Rudoltice v Èechách 6.00-6.01, Lanškroun 6.07
+Os;12708;;|;Lanškroun 6.37 Rudoltice v Èechách 6.42-6.43, Tøebovice v Èechách 6.49-6.49, Èeská Tøebová 6.55
+Os;12709;;|;Èeská Tøebová 6.09 Tøebovice v Èechách 6.14-6.14, Rudoltice v Èechách 6.20-6.21, Lanškroun 6.27
+Os;12710;;|;Lanškroun 7.12 Rudoltice v Èechách 7.18
+Os;12711;;|;Èeská Tøebová 6.49 Tøebovice v Èechách 6.54-6.54, Rudoltice v Èechách 7.00-7.01, Lanškroun 7.07
+Os;12712;;|;Lanškroun 7.28 Rudoltice v Èechách 7.34
+Os;12713;;|;Èeská Tøebová 7.04 Tøebovice v Èechách 7.09-7.09, Rudoltice v Èechách 7.15-7.16, Lanškroun 7.22
+Os;12714;;|;Lanškroun 7.30 Rudoltice v Èechách 7.35-7.36, Tøebovice v Èechách 7.42-7.42, Èeská Tøebová 7.48
+Os;12715;;|;Èeská Tøebová 7.07 Tøebovice v Èechách 7.12-7.12, Rudoltice v Èechách 7.18-7.19, Lanškroun 7.25
+Os;12716;;|;Lanškroun 8.30 Rudoltice v Èechách 8.35-8.36, Tøebovice v Èechách 8.42-8.46, Èeská Tøebová 8.52
+Os;12717;;|;Rudoltice v Èechách 8.18 Lanškroun 8.24
+Os;12718;;|;Lanškroun 9.29 Rudoltice v Èechách 9.35
+Os;12719;;|;Èeská Tøebová 9.04 Tøebovice v Èechách 9.09-9.09, Rudoltice v Èechách 9.15-9.16, Lanškroun 9.22
+Os;12720;;|;Lanškroun 10.30 Rudoltice v Èechách 10.35-10.36, Tøebovice v Èechách 10.42-10.46, Èeská Tøebová 10.52
+Os;12721;;|;Rudoltice v Èechách 10.18 Lanškroun 10.24
+Os;12722;;|;Lanškroun 11.29 Rudoltice v Èechách 11.35
+Os;12723;;|;Èeská Tøebová 11.04 Tøebovice v Èechách 11.09-11.09, Rudoltice v Èechách 11.15-11.16, Lanškroun 11.22
+Os;12724;;|;Lanškroun 12.30 Rudoltice v Èechách 12.35-12.36, Tøebovice v Èechách 12.42-12.42, Èeská Tøebová 12.49
+Os;12725;;|;Rudoltice v Èechách 12.18 Lanškroun 12.24
+Os;12726;;|;Lanškroun 13.29 Rudoltice v Èechách 13.35
+Os;12727;;|;Èeská Tøebová 13.04 Tøebovice v Èechách 13.09-13.09, Rudoltice v Èechách 13.15-13.16, Lanškroun 13.22
+Os;12728;;|;Lanškroun 14.00 Rudoltice v Èechách 14.05-14.06, Tøebovice v Èechách 14.12-14.12, Èeská Tøebová 14.18
+Os;12729;;|;Èeská Tøebová 13.34 Tøebovice v Èechách 13.39-13.39, Rudoltice v Èechách 13.45-13.46, Lanškroun 13.52
+Os;12730;;|;Lanškroun 14.30 Rudoltice v Èechách 14.35-14.36, Tøebovice v Èechách 14.42-14.46, Èeská Tøebová 14.52
+Os;12731;;|;Èeská Tøebová 14.04 Tøebovice v Èechách 14.09-14.09, Rudoltice v Èechách 14.15-14.18, Lanškroun 14.24
+Os;12732;;|;Lanškroun 15.00 Rudoltice v Èechách 15.05-15.06, Tøebovice v Èechách 15.12-15.12, Èeská Tøebová 15.18
+Os;12733;;|;Rudoltice v Èechách 14.44 Lanškroun 14.50
+Os;12734;;|;Lanškroun 15.29 Rudoltice v Èechách 15.35
+Os;12735;;|;Èeská Tøebová 15.04 Tøebovice v Èechách 15.09-15.09, Rudoltice v Èechách 15.15-15.16, Lanškroun 15.22
+Os;12736;;|;Lanškroun 16.00 Rudoltice v Èechách 16.05-16.06, Tøebovice v Èechách 16.12-16.14, Èeská Tøebová 16.20
+Os;12737;;|;Èeská Tøebová 15.34 Tøebovice v Èechách 15.39-15.39, Rudoltice v Èechách 15.45-15.46, Lanškroun 15.52
+Os;12738;;|;Lanškroun 16.30 Rudoltice v Èechách 16.35-16.36, Tøebovice v Èechách 16.42-16.46, Èeská Tøebová 16.52
+Os;12739;;|;Rudoltice v Èechách 16.18 Lanškroun 16.24
+Os;12740;;|;Lanškroun 17.29 Rudoltice v Èechách 17.35
+Os;12741;;|;Èeská Tøebová 17.04 Tøebovice v Èechách 17.09-17.09, Rudoltice v Èechách 17.15-17.16, Lanškroun 17.22
+Os;12742;;|;Lanškroun 18.30 Rudoltice v Èechách 18.35-18.36, Tøebovice v Èechách 18.42-18.46, Èeská Tøebová 18.52
+Os;12743;;|;Rudoltice v Èechách 18.18 Lanškroun 18.24
+Os;12744;;|;Lanškroun 19.29 Rudoltice v Èechách 19.35
+Os;12745;;|;Èeská Tøebová 19.04 Tøebovice v Èechách 19.09-19.09, Rudoltice v Èechách 19.15-19.16, Lanškroun 19.22
+Os;12746;;|;Lanškroun 20.07 Rudoltice v Èechách 20.13
+Os;12747;;|;Rudoltice v Èechách 19.40 Lanškroun 19.46
+Os;12748;;|;Lanškroun 20.34 Rudoltice v Èechách 20.39-20.40, Tøebovice v Èechách 20.46-20.46, Èeská Tøebová 20.52
+Os;12749;;|;Rudoltice v Èechách 20.18 Lanškroun 20.24
+Os;12750;;|;Lanškroun 21.34 Rudoltice v Èechách 21.39-21.40, Tøebovice v Èechách 21.46-21.46, Èeská Tøebová 21.52
+Os;12751;;|;Èeská Tøebová 21.04 Tøebovice v Èechách 21.09-21.09, Rudoltice v Èechách 21.15-21.16, Lanškroun 21.22
+Os;12752;;|;Lanškroun 22.41 Rudoltice v Èechách 22.46-22.47, Tøebovice v Èechách 22.53-22.53, Èeská Tøebová 22.59
+Os;12753;;|;Èeská Tøebová 22.17 Tøebovice v Èechách 22.23-22.25, Rudoltice v Èechách 22.31-22.32, Lanškroun 22.38
+Os;12754;;|;Lanškroun 23.18 Rudoltice v Èechách 23.23-23.24, Tøebovice v Èechách 23.30-23.30, Èeská Tøebová 23.36
+Os;12755;;|;Èeská Tøebová 22.54 Tøebovice v Èechách 23.00-23.02, Rudoltice v Èechách 23.08-23.09, Lanškroun 23.15
+Sp;1400;;|;Jeseník 5.01, Hanušovice 5.55-5.56, Šumperk 6.24
+Sp;1401;;|;Zábøeh na Moravì 7.31, Hanušovice 7.59-8.02, Jeseník 8.58 
+Sp;1402;;|;Jeseník 17.01, Hanušovice 17.58-18.00, Zábøeh na Moravì 18.25
+Sp;1403;;|;Zábøeh na Moravì 9.31, Hanušovice 9.59-10.02, Jeseník 10.58
+Sp;1404;;|;Jeseník 15.01, Hanušovice 15.58-16.00, Zábøeh na Moravì 16.25
+Sp;1405;;|;Zábøeh na Moravì 11.31, Hanušovice 11.59-12.02, Jeseník 12.58
+Sp;1406;;|;Jeseník 13.01, Hanušovice 13.58-14.00, Zábøeh na Moravì 14.25
+Sp;1407;;|;Zábøeh na Moravì 13.31, Hanušovice 13.59-14.02, Jeseník 14.58
+Sp;1408;;|;Jeseník 11.01, Hanušovice 11.58-12.00, Zábøeh na Moravì 12.25
+Sp;1409;;|;Zábøeh na Moravì 15.31, Hanušovice 15.59-16.02, Jeseník 16.58
+Sp;1410;;|;Jeseník 9.01, Hanušovice 9.58-10.00, Zábøeh na Moravì 10.25
+Sp;1411;;|;Zábøeh na Moravì 17.31, Hanušovice 17.59-18.02, Jeseník 18.58
+Sp;1412;;|;Jeseník 7.00, Hanušovice 7.58-8.00, Zábøeh na Moravì 8.25 
+Sp;1413;;|;Olomouc hl.n. 7.47, Zábøeh na Moravì 8.27-8.32, Hanušovice 8.59-9.02, Jeseník 9.59
+Sp;1414;;|;Jeseník 16.04, Hanušovice 16.59-17.00, Zábøeh na Moravì 17.25-17.30, Olomouc hl.n. 18.06
+Sp;1416;;|;Jeseník 18.04, Hanušovice 18.59-19.00, Zábøeh na Moravì 19.25-19.30, Olomouc hl.n. 20.06 
+Sp;1418;;|;Jeseník 19.04, Hanušovice 19.57-20.00, Bludov 20.19-20.23, Zábøeh na Moravì 20.32
+Sp;1419;;|;Šumperk 19.29, Hanušovice 19.59-20.02, Jeseník 21.00
+Sp;1420;;|;Jeseník 19.04, Hanušovice 19.57-20.00, Zábøeh na Moravì 20.25
+Sp;1424;;|;Vsetín 5.02, Valašské Meziøíèí 5.20-5.30, Hranice na Moravì 5.59-6.00, Olomouc hl.n. 6.33
+Sp;1425;;|;Pøerov 7.39, Hranice na Moravì 7.59-8.00, Valašské Meziøíèí 8.27-8.30, Vsetín 8.49 
+Sp;1426;;|;Vsetín 6.02, Valašské Meziøíèí 6.20-6.22, Hranice na Moravì 6.51-6.52, Olomouc hl.n. 7.28
+Sp;1427;;|;Olomouc hl.n. 14.20, Hranice na Moravì 14.56-15.00, Valašské Meziøíèí 15.29-15.30, Vsetín 15.49
+Sp;1428;;|;Vsetín 14.02, Valašské Meziøíèí 14.20-14.23, Hranice na Moravì 14.51-14.52, Olomouc hl.n. 15.28
+Sp;1429;;|;Olomouc hl.n. 15.18, Hranice na Moravì 15.55-15.56, Valašské Meziøíèí 16.24-16.26, Vsetín 16.45
+Sp;1430;;|;Prostìjov hl.n. 7.35, Olomouc hl.n. 7.52
+Sp;1431;;|;Olomouc hl.n. 14.06, Prostìjov hl.n. 14.22
+Sp;1432;;|;Prostìjov hl.n. 15.35, Olomouc hl.n. 15.52
+Sp;1433;;|;Olomouc hl.n. 16.06, Prostìjov hl.n. 16.22
+Sp;1435;;|;Olomouc hl.n. 20.56, Zábøeh na Moravì 21.24-21.26, Šumperk 21.41
+Sp;1436;;|;Šumperk 4.49, Zábøeh na Moravì 5.06-5.15, Olomouc hl.n. 5.50
+Sp;1437;;|;Olomouc hl.n. 4.50, Zábøeh na Moravì 5.16-5.17, Šumperk 5.40
+R;640;Hukvaldy;|;Bohumín 19.58, Ostrava hl.n. 20.05-20.07, Ostrava-Svinov 20.13-20.15, Olomouc hl.n. 21.12-21.14, Pardubice hl.n. 22.44-22.46, Praha hl.n. 23.54
+R;641;Hukvaldy;|;Praha hl.n. 4.02, Pardubice hl.n. 5.11-5.13, Èeská Tøebová 5.59-6.00, Olomouc hl.n. 6.43-6.45, Ostrava-Svinov 7.46-7.48, Ostrava hl.n. 7.54-7.56, Bohumín 8.02
+R;800;Moravan;|;Olomouc hl.n. 21.08, Hulín 21.33-21.34, Bøeclav 22.30
+R;801;Moravan;|;Bøeclav 5.26, Hulín 6.20-6.22, Olomouc hl.n. 6.49 
+R;802;Moravan;|;Olomouc hl.n. 19.08, Hulín 19.33-19.34, Bøeclav 20.35-20.44, Brno hl.n. 21.22
+R;803;Moravan;|;Brno hl.n. 6.36, Bøeclav 7.15-7.21, Hulín 8.20-8.22, Olomouc hl.n. 8.49
+R;804;Moravan;|;Olomouc hl.n. 17.08, Hulín 17.33-17.34, Bøeclav 18.35-18.44, Brno hl.n. 19.22
+R;805;Moravan;|;Brno hl.n. 8.36, Bøeclav 9.15-9.21, Hulín 10.20-10.22, Olomouc hl.n. 10.49
+R;806;Moravan;|;Olomouc hl.n. 15.08, Hulín 15.33-15.34, Bøeclav 16.35-16.44, Brno hl.n. 17.22
+R;807;Moravan;|;Brno hl.n. 10.36, Bøeclav 11.15-11.21, Hulín 12.20-12.22, Olomouc hl.n. 12.49
+R;808;Moravan;|;Olomouc hl.n. 13.08, Hulín 13.33-13.34, Bøeclav 14.35-14.44, Brno hl.n. 15.22
+R;809;Moravan;|;Brno hl.n. 12.36, Bøeclav 13.15-13.21, Hulín 14.20-14.22, Olomouc hl.n. 14.49
+R;810;Moravan;|;Olomouc hl.n. 11.08, Hulín 11.33-11.34, Bøeclav 12.35-12.44, Brno hl.n. 13.22
+R;811;Moravan;|;Brno hl.n. 14.36, Bøeclav 15.15-15.21, Hulín 16.20-16.22, Olomouc hl.n. 16.49
+R;812;Moravan;|;Olomouc hl.n. 9.08, Hulín 9.33-9.34, Bøeclav 10.35-10.44, Brno hl.n. 11.22
+R;813;Moravan;|;Brno hl.n. 16.36, Bøeclav 17.15-17.21, Hulín 18.20-18.22, Olomouc hl.n. 18.49
+R;814;Moravan;|;Olomouc hl.n. 7.08, Hulín 7.33-7.34, Bøeclav 8.35-8.44, Brno hl.n. 9.22
+R;815;Moravan;|;Brno hl.n. 18.36, Bøeclav 19.15-19.21, Hulín 20.20-20.22, Olomouc hl.n. 20.49
+R;900;Bouzov;|;Šumperk 20.15, Zábøeh na Moravì 20.31-20.35, Olomouc hl.n. 21.01-21.06, Brno hl.n. 22.37
+R;901;Bouzov;|;Brno hl.n. 5.22, Olomouc hl.n. 6.52-6.56, Zábøeh na Moravì 7.22-7.26, Šumperk 7.41
+R;902;Bouzov;|;Šumperk 18.09, Zábøeh na Moravì 18.22-18.35, Olomouc hl.n. 19.01-19.06, Brno hl.n. 20.38
+R;903;Bouzov;|;Brno hl.n. 7.21, Olomouc hl.n. 8.52-8.56, Zábøeh na Moravì 9.22-9.26, Šumperk 9.41
+R;904;Bouzov;|;Šumperk 16.09, Zábøeh na Moravì 16.22-16.35, Olomouc hl.n. 17.01-17.06, Brno hl.n. 18.43 
+R;905;Bouzov;|;Brno hl.n. 9.18, Olomouc hl.n. 10.52-10.56, Zábøeh na Moravì 11.22-11.26, Šumperk 11.41
+R;906;Bouzov;|;Šumperk 14.09, Zábøeh na Moravì 14.22-14.35, Olomouc hl.n. 15.01-15.06, Brno hl.n. 16.43 
+R;907;Bouzov;|;Brno hl.n. 11.18, Olomouc hl.n. 12.52-12.56, Zábøeh na Moravì 13.22-13.26, Šumperk 13.41
+R;908;Bouzov;|;Šumperk 12.09, Zábøeh na Moravì 12.22-12.35, Olomouc hl.n. 13.01-13.06, Brno hl.n. 14.43
+R;909;Bouzov;|;Brno hl.n. 13.18, Olomouc hl.n. 14.52-14.56, Zábøeh na Moravì 15.22-15.26, Šumperk 15.41
+R;910;Bouzov;|;Šumperk 10.09, Zábøeh na Moravì 10.22-10.35, Olomouc hl.n. 11.01-11.06, Brno hl.n. 12.42
+R;911;Bouzov;|;Brno hl.n. 15.18, Olomouc hl.n. 16.52-16.56, Zábøeh na Moravì 17.22-17.26, Šumperk 17.41
+R;912;Bouzov;|;Šumperk 8.09, Zábøeh na Moravì 8.22-8.35, Olomouc hl.n. 9.01-9.06, Brno hl.n. 10.42
+R;913;Bouzov;|;Brno hl.n. 17.18, Olomouc hl.n. 18.52-18.56, Zábøeh na Moravì 19.24-19.26, Šumperk 19.43 
+R;914;Bouzov;|;Šumperk 6.11, Zábøeh na Moravì 6.30-6.31, Olomouc hl.n. 7.00-7.06, Brno hl.n. 8.42
+R;915;Bouzov;|;Brno hl.n. 19.18, Olomouc hl.n. 20.52-20.56, Zábøeh na Moravì 21.24-21.26, Šumperk 21.41

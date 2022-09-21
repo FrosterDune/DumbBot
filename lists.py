@@ -1,13 +1,11 @@
 import pandas as pd
-import csv
+import numpy as np
 
-def gettrain(input):
-        with open("trainlist.csv", "r") as csv_file:
-            csv_reader = csv.reader(csv_file, delimiter=";")
-            next(csv_reader)
-            for train in csv_reader:
-                if input in train[1]:
-                    return str(f"vlak: {train[0]} {train[1]} {train[2]}\njede směrem: {train[3]}")
+def gettrain(input: int):
+
+    df = pd.read_csv("trainlist.csv", encoding="windows 1250", delimiter=";")
+    specifictrain = df[df.eq(input).any(1)]
+    return str(specifictrain.to_string(index=False, header=False, na_rep=" "))
 
 class Command:
 
