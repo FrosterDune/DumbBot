@@ -2,11 +2,12 @@ import nextcord
 import copypasty
 import Derp
 import private
+import lists
+import kvadra
 import datetime
 from nextcord.ext import commands, tasks
 from nextcord.ext.commands import command, has_permissions, bot_has_permissions, Cog, cog
 from better_profanity import profanity
-from math import sqrt
 
 bot = commands.Bot()
 descriptions = copypasty.Description()
@@ -15,6 +16,8 @@ derpy = Derp.Commands()
 random_derp = Derp.Random()
 channelid = private.ChannelIDrequest.bot_image_posting()
 token = private.token.token()
+trainlist = lists.Command()
+kvadr = kvadra.Commands()
 
 @bot.event
 async def on_ready():
@@ -35,15 +38,15 @@ async def chalice(ctx):
 async def zyzz(ctx):
     await ctx.channel.send("**We're All Gonna Make It Brah 💪**", file=nextcord.File('zyzz.mp4'))
 
+@bot.slash_command(description="najde vlak který jezdí na trati 270 (pouze Os/Sp/R)", default_member_permissions=8)
+async def train(ctx, input):
+    embed = nextcord.Embed(description=trainlist.vypis(input=input))
+    await ctx.send(embed=embed, ephemeral=True)
+
 @bot.slash_command(description="kvadratická rovnice protože proč kurva ne")
 async def kvadra(ctx, a: float, b: float, c:float):
-    try:
-        D = b**2-4*a*c
-        x1 = (-b+sqrt(D))/(2*a)
-        x2 = (-b-sqrt(D))/(2*a)
-        await ctx.send(f"x1 = {x1}\nx2 = {x2}", ephemeral=True)
-    except(ValueError):
-        await ctx.send("nelze vypočítat, rovnice nemá řešení, try me bitch again", ephemeral=True)
+    embed = nextcord.Embed(description=kvadr.vypis(a=a, b=b, c=c))
+    await ctx.send(embed=embed, ephemeral=True)
 
 #DerPyBooru commands
 @bot.slash_command(description="post random art from Light")
