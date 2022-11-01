@@ -8,7 +8,7 @@ def template(artist: str, upvotes: int):
         return image.url
 
 class Commands:
-    @classmethod
+
     def light(cls, upvotes: int):
         return template(ARTISTS[0], upvotes=upvotes)
 
