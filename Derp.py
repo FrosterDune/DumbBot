@@ -8,24 +8,19 @@ def template(artist: str, upvotes: int):
         return image.url
 
 class Commands:
-
     @classmethod
     def light(cls, upvotes: int):
         return template(ARTISTS[0], upvotes=upvotes)
 
-    @classmethod
     def coco(cls, upvotes=5):
         return template(ARTISTS[1], upvotes=upvotes)
 
-    @classmethod
     def dyo(cls, upvotes: int):
         return template(ARTISTS[2], upvotes=upvotes)
 
-    @classmethod
     def quint(cls, upvotes=5):
         return template(ARTISTS[3], upvotes=upvotes)
 
-    @classmethod
     def ginny(cls, upvotes=5):
         return template(ARTISTS[4], upvotes=upvotes)
 

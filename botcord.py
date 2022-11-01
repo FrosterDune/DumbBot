@@ -4,10 +4,8 @@ import Derp
 import private
 import lists
 import kvadra
-import datetime
 from nextcord.ext import commands, tasks
-from nextcord.ext.commands import command, has_permissions, bot_has_permissions, Cog, cog
-from better_profanity import profanity
+from nextcord.ext.commands import has_permissions
 
 bot = commands.Bot()
 descriptions = copypasty.Description()
@@ -89,23 +87,23 @@ async def sendmsg(ctx, message: str):
     await ctx.send(message)
 
 #Commands for start or stop loop events
-@bot.slash_command(description="start 1. loop", default_member_permissions=8)
+@bot.slash_command(description="start 1. loop (random art from ARTISTS list)", default_member_permissions=8)
 async def startloop1(ctx):
     send_random_artfromartist.start()
     await ctx.send("successful", ephemeral=True)
 
-@bot.slash_command(description="start 2. loop", default_member_permissions=8)
+@bot.slash_command(description="start 2. loop (random art)", default_member_permissions=8)
 async def startloop2(ctx):
     send_random_art.start()
     await ctx.send("successful", ephemeral=True)
 
-@bot.slash_command(description="stopping loop1", default_member_permissions=8)
+@bot.slash_command(description="stopping loop1 (art from ARTISTS list)", default_member_permissions=8)
 async def stoploop1(ctx):
     send_random_artfromartist.stop()
     print("loop1 stopped")
     await ctx.send("successful", ephemeral=True)
 
-@bot.slash_command(description="stopping loop2", default_member_permissions=8)
+@bot.slash_command(description="stopping loop2 (random art)", default_member_permissions=8)
 async def stoploop2(ctx):
     send_random_art.stop()
     print("loop2 stopped")
@@ -122,7 +120,7 @@ async def before():
     await bot.wait_until_ready()
     print("loop1 has started")
 
-@tasks.loop(seconds=10)
+@tasks.loop(seconds=5)
 async def send_random_art():
     message_channel = bot.get_channel(channelid)
     await message_channel.send(random_derp.randomimage(upvotes=350))

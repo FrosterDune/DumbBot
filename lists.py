@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 def gettrain(input: int):
 
@@ -9,6 +8,5 @@ def gettrain(input: int):
 
 class Command:
 
-    @classmethod
     def vypis(cls, input):
         return gettrain(input=input)

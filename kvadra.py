@@ -12,6 +12,5 @@ def vypocet(a:float, b:float, c:float):
 
 class Commands:
 
-    @classmethod
     def vypis(cls, a, b, c):
         return vypocet(a=a, b=b, c=c)
