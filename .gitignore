@@ -1,0 +1,12 @@
+
+private.py
+*.pyc
+.idea/misc.xml
+.idea/modules.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/disbotnextcord.iml
+.idea/csv-plugin.xml
+.idea/csv-editor.xml
+.idea/vcs.xml
+.idea/workspace.xml

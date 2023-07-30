@@ -1,3 +1,5 @@
+import asyncio
+
 import nextcord
 import copypasty
 import Derp
@@ -5,9 +7,12 @@ import private
 import lists
 import kvadra
 from nextcord.ext import commands, tasks
-from nextcord.ext.commands import has_permissions
+from nextcord.ext.commands import has_permissions, CommandNotFound
+from random import choice
+from typing import Optional
 
-bot = commands.Bot()
+intents = nextcord.Intents.all()
+bot = commands.Bot(command_prefix="!", intents=intents)
 descriptions = copypasty.Description()
 copypasta = copypasty.Copypasta()
 derpy = Derp.Commands()
@@ -17,9 +22,16 @@ token = private.token.token()
 trainlist = lists.Command()
 kvadr = kvadra.Commands()
 
+#events
 @bot.event
 async def on_ready():
     print("I'm ready")
+
+@bot.event
+async def on_command_error(ctx, error):
+    if isinstance(error, CommandNotFound):
+        await ctx.message.delete()
+        await ctx.send(error)
 
 #Basic custom commands
 @bot.slash_command(description="Shows bot latency")
@@ -33,8 +45,9 @@ async def chalice(ctx):
     await ctx.send(embed=embed)
 
 @bot.slash_command(description=descriptions.zyzzdes())
-async def zyzz(ctx):
-    await ctx.channel.send("**We're All Gonna Make It Brah 💪**", file=nextcord.File('zyzz.mp4'))
+async def zyzz(ctx: nextcord.Interaction):
+    await ctx.response.defer()
+    await ctx.followup.send("**We're All Gonna Make It Brah 💪**", file=nextcord.File('zyzz.mp4'))
 
 @bot.slash_command(description="najde vlak který jezdí na trati 270 (pouze Os/Sp/R)", default_member_permissions=8)
 async def train(ctx, input: int):
@@ -45,6 +58,20 @@ async def train(ctx, input: int):
 async def kvadra(ctx, a: float, b: float, c:float):
     embed = nextcord.Embed(description=kvadr.vypis(a=a, b=b, c=c))
     await ctx.send(embed=embed, ephemeral=True)
+
+@bot.slash_command(description="Make string more retarded")
+async def retard(ctx, message:str):
+    retarder = "".join(choice((str.upper, str.lower))(char) for char in message)
+    await ctx.send(retarder)
+
+@bot.slash_command(description="reply test with link")
+async def tvojemama(ctx: nextcord.Interaction, message_link: Optional[str] = nextcord.SlashOption(required=False)):
+    await ctx.response.defer()
+    await ctx.followup.send(file=nextcord.File('tvojemama.mp4'))
+    if message_link is not None:
+        await ctx.channel.send(f"od {ctx.user.mention} na zprávu: {message_link}")
+    else:
+        await ctx.channel.send(f"od {ctx.user.mention}")
 
 #DerPyBooru commands
 @bot.slash_command(description="post random art from Light")
@@ -81,10 +108,11 @@ async def clear(ctx, limit: int):
     else:
         await ctx.send("I can delete only 10 messages at once", ephemeral=True)
 
-@bot.slash_command(description="send message through bot", default_member_permissions=8, force_global=False)
+@bot.command(name="msg")
 @has_permissions(manage_messages=True)
-async def sendmsg(ctx, message: str):
+async def sendmsg(ctx, *, message: str):
     await ctx.send(message)
+    await ctx.message.delete()
 
 #Commands for start or stop loop events
 @bot.slash_command(description="start 1. loop (random art from ARTISTS list)", default_member_permissions=8)
