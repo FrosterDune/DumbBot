@@ -65,9 +65,9 @@ async def retard(ctx, message:str):
     await ctx.send(retarder)
 
 @bot.slash_command(description="reply test with link")
-async def tvojemama(ctx: nextcord.Interaction, message_link: Optional[str] = nextcord.SlashOption(required=False)):
+async def okoun(ctx: nextcord.Interaction, message_link: Optional[str] = nextcord.SlashOption(required=False)):
     await ctx.response.defer()
-    await ctx.followup.send(file=nextcord.File('tvojemama.mp4'))
+    await ctx.followup.send(file=nextcord.File('okoun.mp4'))
     if message_link is not None:
         await ctx.channel.send(f"od {ctx.user.mention} na zprávu: {message_link}")
     else:
